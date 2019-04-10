@@ -12,6 +12,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/btnShare"
         android:src="@drawable/sharelogo"
-        android:background="#000"
+        style="@style/CustomFontStyle"
         android:contentDescription="TODO" />
 </LinearLayout>
