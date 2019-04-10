@@ -14,4 +14,60 @@
         android:src="@drawable/sharelogo"
         style="@style/CustomFontStyle"
         android:contentDescription="TODO" />
+    <Button
+        android:text="one"
+        style="@style/ButtonStyle"/>
+    <Button
+        android:text="two"
+        style="@style/ButtonStyle"/>
+    <Button
+        android:text="three"
+        style="@style/ButtonStyle"/>
+    <Button
+    android:text="four"
+    style="@style/ButtonStyle"/>
+    <Button
+    android:text="five"
+    style="@style/ButtonStyle"/>
+    <Button
+    android:text="six"
+    style="@style/ButtonStyle"/>
+    <Button
+    android:text="seven"
+    style="@style/ButtonStyle"/>
+    <Button
+    android:text="eight"
+    style="@style/ButtonStyle"/>
+    <Button
+    android:text="nine"
+    style="@style/ButtonStyle"/>
+    <Button
+    android:text="ten"
+    style="@style/ButtonStyle"/>
+    <Button
+    android:text="eleven"
+    style="@style/ButtonStyle"/><Button
+    android:text="is"
+    style="@style/ButtonStyle"/><Button
+    android:text="what"
+    style="@style/ButtonStyle"/><Button
+    android:text="hell"
+    style="@style/ButtonStyle"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </LinearLayout>
